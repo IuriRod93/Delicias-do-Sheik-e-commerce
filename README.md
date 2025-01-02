@@ -14,12 +14,6 @@ Este projeto é um **sistema de e-commerce para pedidos de lanches online**, per
 - **Envio de Pedido via WhatsApp**: Após a compra, o pedido é enviado automaticamente para o WhatsApp da empresa.
 - **Acompanhamento de Status**: O cliente recebe atualizações sobre o status do pedido através do WhatsApp (pedido recebido, em preparo, entregue).
 
-## Acesse o Projeto
-
-Você pode acessar o projeto pronto através do link abaixo:
-
-[Link do Projeto](https://delicias-do-sheik.web.app/))
-
 ## License
 
 Este projeto é licenciado sob a **MIT License**.
